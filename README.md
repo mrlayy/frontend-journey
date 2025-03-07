@@ -25,7 +25,7 @@ This repository contains my daily progress, mini projects, and experiments while
 │   ├─ css-absolute-relative-layout
 │   ├─ framer-motion-hero
 │   └─ …
-└─ 📁 drafts (Optional for experiments)
+└─ 📁 drafts
 ```
 
 ## My Goals 🏆
