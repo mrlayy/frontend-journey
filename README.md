@@ -22,10 +22,9 @@ This repository contains my daily progress, mini projects, and experiments while
 │   ├─ 2025-03-08.md
 │   └─ …
 ├─ 📁 projects  🔥 (Mini Projects)
-│   ├─ css-absolute-relative-layout
-│   ├─ framer-motion-hero
-│   └─ …
-└─ 📁 drafts
+    ├─ css-absolute-relative-layout.md
+    ├─ framer-motion-hero.md
+    └─ …
 ```
 
 ## My Goals 🏆
