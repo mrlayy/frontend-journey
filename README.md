@@ -16,10 +16,16 @@ This repository contains my daily progress, mini projects, and experiments while
 ## Folder Structure
 ```
 📁 frontend-journey
-├─ 📄 README.md (This file)
-├─ 📁 css (Basic layout & styling projects)
-├─ 📁 react (Component-based projects)
-└─ 📁 animations (Framer Motion projects)
+├─ 📄 README.md
+├─ 📁 learning-history  🔑 (Daily Journal)
+│   ├─ 2025-03-07.md
+│   ├─ 2025-03-08.md
+│   └─ …
+├─ 📁 projects  🔥 (Mini Projects)
+│   ├─ css-absolute-relative-layout
+│   ├─ framer-motion-hero
+│   └─ …
+└─ 📁 drafts (Optional for experiments)
 ```
 
 ## My Goals 🏆
