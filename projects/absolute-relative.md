@@ -22,5 +22,3 @@
 Today I learned how important understanding CSS positioning is for creating layouts. This knowledge will help me in building responsive designs in the future.
 
 ---
-
-Next Lesson: **Flexbox & Grid** 🔥🚀
